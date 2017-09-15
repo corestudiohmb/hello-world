@@ -1,2 +1,4 @@
 # hello-world
-Bad-ass hello world repo
+
+I'm a git master
+I already miss Cassini
